@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>PYTHON</string>
+  <key>nodeid</key><string>d1240f8c-fd8b-4ea1-b8e7-4d3863167b95</string>
+  <key>modified_time</key><integer>1686737482</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>application/x-notebook-dir</string>
+  <key>created_time</key><integer>1686737482</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>2</integer>
+  <key>info_sort</key><string>order</string>
+</dict>
+</node>

@@ -16,4 +16,8 @@ ___
 
 1. ethical_hacking -- *Por completar*
 2. IA - (Inteligencia Artificial) -- *Por completar / Realizado parte en la carrera*
+<<<<<<< HEAD
 3. python -- *Por completar*
+=======
+3. python -- *Por completar*
+>>>>>>> 70eeabf7fe0392c3aa721948c166730523aa1e3e
